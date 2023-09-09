@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/myWebsite/static/css/main.0755d9d6.css",
+    "main.js": "/myWebsite/static/js/main.34eba00c.js",
+    "static/media/CV -last.pdf": "/myWebsite/static/media/CV -last.1ef91ff69307ebc59d81.pdf",
+    "static/media/mapty1.png": "/myWebsite/static/media/mapty1.ddb7e3cad7fab8e1af20.png",
+    "static/media/white-me4.jpeg": "/myWebsite/static/media/white-me4.c4052491d18797555941.jpeg",
+    "static/media/me4.jpeg": "/myWebsite/static/media/me4.7ebc789213f7fcdc896b.jpeg",
+    "static/media/me1.jpeg": "/myWebsite/static/media/me1.6d71d3562710de6d0d59.jpeg",
+    "static/media/calculator1.jpg": "/myWebsite/static/media/calculator1.8cf5311460a2daedfd3a.jpg",
+    "index.html": "/myWebsite/index.html",
+    "main.0755d9d6.css.map": "/myWebsite/static/css/main.0755d9d6.css.map",
+    "main.34eba00c.js.map": "/myWebsite/static/js/main.34eba00c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0755d9d6.css",
+    "static/js/main.34eba00c.js"
+  ]
+}
